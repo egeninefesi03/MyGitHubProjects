@@ -13,6 +13,8 @@ public class AtmApp {
 
         // ali3
         System.out.println("ali bir adim onde");
+        System.out.println(" bazi degisiklikler");
+
 
 
     }
