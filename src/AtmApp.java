@@ -11,5 +11,9 @@ public class AtmApp {
 
         System.out.println("master branchinda yeni ozellikler var");
 
+        // ali3
+        System.out.println("ali bir adim onde");
+
+
     }
 }
