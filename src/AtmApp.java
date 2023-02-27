@@ -9,5 +9,7 @@ public class AtmApp {
         System.out.println("giti ogrenmek cok kolay");
         System.out.println("ali branch i yeni bir ozellik ekledi");
 
+        System.out.println("master branchinda yeni ozellikler var");
+
     }
 }
